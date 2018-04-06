@@ -7,10 +7,6 @@ $(call inherit-product, vendor/aoscp/configs/common_full_phone.mk)
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 PRODUCT_NAME := aoscp_vs986_usu
-PRODUCT_DEVICE := vs986
-PRODUCT_BRAND := lge
-PRODUCT_MODEL := LGVS986
-PRODUCT_MANUFACTURER := LGE
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="g4" \
