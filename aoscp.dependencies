@@ -6,8 +6,8 @@
     "branch":      "aoscp"
   },
   {
-    "repository":  "proprietary_vendor_lge",
+    "repository":  "Suicide-Squirrel/proprietary_vendor_lge",
     "target_path": "vendor/lge",
-    "remote":      "aoscp"
+    "remote":      "cm-14.1"
   }
 ]
