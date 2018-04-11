@@ -8,6 +8,7 @@
   {
     "repository":  "Suicide-Squirrel/proprietary_vendor_lge",
     "target_path": "vendor/lge",
+    "remote":      "github",
     "remote":      "cm-14.1"
   }
 ]
