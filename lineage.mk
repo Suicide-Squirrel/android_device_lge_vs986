@@ -1,4 +1,4 @@
-$(call inherit-product, device/lge/h812_usu/full_h812.mk)
+$(call inherit-product, device/lge/vs986_usu/full_vs986.mk)
 
 # Inherit some common stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
@@ -6,10 +6,10 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Overlays (inherit after vendor/lineage to ensure we override it)
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
-PRODUCT_NAME := lineage_h812_usu
-PRODUCT_DEVICE := h812
+PRODUCT_NAME := lineage_vs986_usu
+PRODUCT_DEVICE := vs986
 PRODUCT_BRAND := lge
-PRODUCT_MODEL := LG-H812
+PRODUCT_MODEL := LGVS986
 PRODUCT_MANUFACTURER := LGE
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
