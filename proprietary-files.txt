@@ -1,3 +1,4 @@
+vendor/firmware/BCM4339_003.001.009.0117.0621_LGE_P1_VZW.hcd
 etc/acdbdata/General_cal.acdb
 etc/acdbdata/Hdmi_cal.acdb
 etc/acdbdata/Speaker_cal.acdb

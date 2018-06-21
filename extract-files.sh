@@ -17,7 +17,7 @@
 
 set -e
 
-export DEVICE=vs986
+export DEVICE=vs986_usu
 export VENDOR=lge
 
 # Use common extractor
