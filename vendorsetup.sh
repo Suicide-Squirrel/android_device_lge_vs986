@@ -1,3 +1,6 @@
+export ALLOW_MISSING_DEPENDENCIES=true
+export USE_NINJA=true
+
 add_lunch_combo lineage_vs986_usu-userdebug
 add_lunch_combo lineage_vs986_usu-user
 add_lunch_combo lineage_vs986_usu-eng
