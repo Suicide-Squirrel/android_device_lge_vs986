@@ -31,7 +31,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 PRODUCT_NAME := lineage_vs986_usu
-PRODUCT_DEVICE := vs986
+PRODUCT_DEVICE := vs986_usu
 PRODUCT_BRAND := lge
 PRODUCT_MODEL := LG-VS986
 PRODUCT_MANUFACTURER := LGE
